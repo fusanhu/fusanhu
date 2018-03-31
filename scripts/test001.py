@@ -1,0 +1,6 @@
+class TestAAA():
+    def test001(self):
+        assert 1
+
+    def test002(self):
+        assert 1
